@@ -1,4 +1,4 @@
-# 11 proyectos en lenguanje Python 
+# 11 proyectos en lenguaje Python 
 ----
 ```Lista de proyectos a realizar:```
 
